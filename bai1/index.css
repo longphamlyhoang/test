@@ -1,0 +1,21 @@
+.btn-list {
+    text-align: center;
+}
+.btn-list li a {
+    background-color: #2d3032;
+    border-radius: 4px;
+    color: #fff;
+    display: inline-block;
+    height: 56px;
+    line-height: 56px;
+    min-width: 170px;
+    transition: 0.3s background-color;
+    text-decoration: none;
+}
+.btn-list li a:hover {
+    background-color: #00aeef;
+} 
+.btn-list li {
+    display: inline;
+    margin: 0 12px;
+}      
